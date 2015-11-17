@@ -69,10 +69,10 @@ The index.html file will only contain the basics to get started.
 The more assets you choose the more links will be included in the <head>.
 The style.css file will only contain styles for a very basic navigation.
 
-#Question: 
+###Question: 
 What is the difference between bootstrap and foundation?
 
-#Answer: 
+###Answer: 
 Bootstrap and Foundation are both front end web development frameworks
 built around a responsive grid system.  Bootstrap includes a variety of
 css themes and can save you loads of time if you don't need to design a 
