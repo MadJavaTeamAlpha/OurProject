@@ -9,7 +9,7 @@ The Basic directory package includes only the items listed below
 in the following directory structure:
 
 
-#Your new project
+###Your new project
   - index.html
   - css
     -- style.css
@@ -19,7 +19,7 @@ in the following directory structure:
 The Cadillac directory option includes everything listed below 
 in the following directory structure:
 
-#Your new project
+###Your new project
 
   - index.html
 	
